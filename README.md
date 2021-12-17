@@ -24,4 +24,4 @@ PROJECT PICTURES:
 
 THIS FLUTTER PROJECT INCLUDES:
 
-late animations functionilities,validations, advance media quires to make it responsive and other powerful widgets
+late animations functionilities,validations, advance media quaries to make it responsive and other powerful widgets with all screensizes
